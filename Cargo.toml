@@ -1,0 +1,9 @@
+[package]
+name = "mylang"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+llvm-sys = "120.2.3"  
+inkwell = "0.1.0"    
+lalrpop = "0.19.7"    
